@@ -1,0 +1,23 @@
+{
+  "name": "internship-test2",
+  "version": "1.0.0",
+  "description": "Problem statement is defined in the file \"Bungee Coding Round.docx\". Please refer to this file.",
+  "main": "solution.js",
+  "dependencies": {
+    "csv": "^5.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adyasha9/internship-test2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adyasha9/internship-test2/issues"
+  },
+  "homepage": "https://github.com/adyasha9/internship-test2#readme"
+}
